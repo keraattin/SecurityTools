@@ -1,8 +1,9 @@
 # Technology Detector
-With that program you can able to detect technologies from Response Headers
+With that program, you can able to detect technologies from Response Headers
 
 ## Requirements
 To run this program requirements must be met
+
 In order to do that:
 ```
 pip3 install -r requirements.txt
